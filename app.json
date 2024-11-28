@@ -1,9 +1,9 @@
 {
-  "name":"YESSER-MD",
-  "description":"Best whatsapp bot created by YESSERTECH",
+  "name":"Legend-MD",
+  "description":"Best whatsapp bot created by Mr.Legend",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/8lzwqh.jpeg",
-  "repository":"https://github.com/yassin994/YESSER-1",
+  "repository":"https://github.com/FarhanAli690/Legend-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -47,7 +47,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"YESSER-MD",
+      "value":"Legend-MD",
       "required":false
 
     } ,
@@ -86,14 +86,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "YESSERTECH"
+    "value": "Legend"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255621995482"
+    "value": "923*********"
   },
     "WARN_COUNT":
   {

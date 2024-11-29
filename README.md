@@ -19,16 +19,29 @@ src="https://cardivo.vercel.app/api?name=MR%20LEGEND%20MD%20&description=🥂THE
 
 <br>
 
-`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
 
 <br>
 
---------
+----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
 
 ### Setup
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Farhanali690/Legend-MD/fork) It***
 
+----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
 
 ### <br>    ❖ SESSION_ID ❖
 

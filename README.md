@@ -57,41 +57,56 @@ src="https://cardivo.vercel.app/api?name=MR%20LEGEND%20MD%20&description=🥂THE
 
 ----------
 
-----------
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLOY LEGEND-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
-------------
+----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Farhanali690/Legend-MD/tree/main)
 
 ----------
-## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Farhanali690/Legend-MD/tree/main
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-   </details>
-</P>
-
-
-
-
+-------
 
 ## Contributions
 
 Contributions to LEGEND-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
+----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
 ## License
 
 The LEGEND-MD is released.
 
 Enjoy the diverse features of the LEGEND-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
+----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
 ## Developer:
 - [Mr.Legend](https://wa.me/923136420207)
 - [Walk-Drove](https://wa.me/923471728690)
 
+----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
 *Thanks to:*
 ## Allah

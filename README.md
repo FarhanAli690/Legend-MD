@@ -1,6 +1,10 @@
-## <p align="center"> LEGEND MD WHATSAPP BOT
-<br>
-<strong>Looking for the LEGEND-MD? then</strong>
+---------
+
+### <br>  ❖ LEGEND-MD ❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY MR-LEGEND-AND-WALK-DROVE`** 🔰
+
+----------
+
 <a href="https://github.com/Farhanali690/Legend-MD">Click Here</a>
 
 

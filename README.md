@@ -102,17 +102,17 @@ Enjoy the diverse features of the LEGEND-MD  to enhance your conversations and m
 <hr>
 
 <div align="center">
-<h3> LEGEND-MD Developer Team 👤</h2>
+<h3> LEGEND-MD Developer Team </h2>
+----------
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
 | MR-LEGEND👤              | WALK-DROVE 👤              
 |--------------------|---------------------|
 [![Owner](https://i.imghippo.com/files/NKF1873jU.jpg)](https://wa.me/923136420207) | [![Vihanga](https://i.imghippo.com/files/zzy3146DKQ.jpg)](https://wa.me/923471728690) |
 </div>
 <hr>
-## Developer:
-- [Mr.Legend](https://wa.me/923136420207)
-- [Walk-Drove](https://wa.me/923471728690)
-
 ----------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

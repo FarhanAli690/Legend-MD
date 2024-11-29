@@ -9,6 +9,10 @@
 
 -------
 
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`WALK-DROVE-AND-MR-LEGEND`" alt="">
+
+------------
 
 <img src="[(https://ibb.co/9bwzybf)]" width="540" height="auto" />
 </p>     

@@ -28,6 +28,7 @@ src="https://cardivo.vercel.app/api?name=MR%20LEGEND%20MD%20&description=🥂THE
 ### Setup
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Farhanali690/Legend-MD/fork) It***
+***2.`Get Session ID` by  [`PAIRING CODE`](https://yesser.onrender.com/pair) or [`PAIR CODE 2`](https://yesser.onrender.com/pair)***
 
 *Linking methods*
 

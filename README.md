@@ -27,7 +27,7 @@ src="https://cardivo.vercel.app/api?name=MR%20LEGEND%20MD%20&description=🥂THE
 
 ### Setup
 
-![forks](https://img.shields.io/https://github.com/Farhanali690/Legend-MD/fork?label=Forks&style=social)
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Farhanali690/Legend-MD/fork) It***
 
 *Linking methods*
 

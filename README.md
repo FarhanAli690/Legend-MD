@@ -99,6 +99,17 @@ Enjoy the diverse features of the LEGEND-MD  to enhance your conversations and m
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 -------
+<hr>
+
+<div align="center">
+<h3>🌸 LEGEND-MD Developer Team 👤</h2>
+
+| SADEESHA 👤              | VIHANGA 👤              
+|--------------------|---------------------|---------------------|
+[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) |
+| WALK-DROVE| MR-LEGEND |
+</div>
+<hr>
 ## Developer:
 - [Mr.Legend](https://wa.me/923136420207)
 - [Walk-Drove](https://wa.me/923471728690)

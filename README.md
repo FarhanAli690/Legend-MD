@@ -30,15 +30,26 @@ src="https://cardivo.vercel.app/api?name=MR%20LEGEND%20MD%20&description=🥂THE
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Farhanali690/Legend-MD/fork) It***
 ***2.`Get Session ID` by  [`PAIRING CODE`](https://yesser.onrender.com/pair) or [`PAIR CODE 2`](https://yesser.onrender.com/pair)***
 
-*Linking methods*
+### <br>    ❖ SESSION_ID ❖
 
-##  Pairing link:1
 
-<a href="https://yesser.onrender.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
-## Pairing link:2 (if above isn't working)
+----------
 
-<a href="https://yesser.onrender.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE2-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<p align="center">
+<a href="https://yesser.onrender.com/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<p/>
+
+----------
+
+----------
+
+<p align="center">
+<a href="https://yesser.onrender.com/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
+<p/>
+
+----------
 ## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Farhanali690/Legend-MD/tree/main)

@@ -56,9 +56,21 @@ src="https://cardivo.vercel.app/api?name=MR%20LEGEND%20MD%20&description=🥂THE
 <p/>
 
 ----------
+
+----------
+ 
+### <br>   ❖ DEPLOY_HEROKU ❖
+
+`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+
+------------
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Farhanali690/Legend-MD/tree/main)
+
+----------
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Farhanali690/Legend-MD/tree/main)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Farhanali690/Legend-MD/tree/main
 
    </details>
 </P>

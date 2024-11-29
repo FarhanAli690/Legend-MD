@@ -106,7 +106,7 @@ Enjoy the diverse features of the LEGEND-MD  to enhance your conversations and m
 
 | WALK-DROVE 👤              | MR-LEGEND 👤              
 |--------------------|---------------------|
-[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://wa.me/923136420207) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://wa.me/923471728690) |
+[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://wa.me/923136420207) | [![Vihanga](https://i.imghippo.com/files/zzy3146DKQ.jpg)](https://wa.me/923471728690) |
 </div>
 <hr>
 ## Developer:

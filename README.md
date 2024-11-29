@@ -102,10 +102,10 @@ Enjoy the diverse features of the LEGEND-MD  to enhance your conversations and m
 <hr>
 
 <div align="center">
-<h3>🌸 LEGEND-MD Developer Team 👤</h2>
+<h3> LEGEND-MD Developer Team 👤</h2>
 
 | WALK-DROVE 👤              | MR-LEGEND 👤              
-|--------------------|---------------------|---------------------|
+|--------------------|---------------------|
 [![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://wa.me/923136420207) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://wa.me/923471728690) |
 </div>
 <hr>

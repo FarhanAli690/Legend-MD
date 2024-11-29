@@ -104,9 +104,9 @@ Enjoy the diverse features of the LEGEND-MD  to enhance your conversations and m
 <div align="center">
 <h3> LEGEND-MD Developer Team 👤</h2>
 
-| WALK-DROVE 👤              | MR-LEGEND 👤              
+| MR-LEGEND👤              | WALK-DROVE 👤              
 |--------------------|---------------------|
-[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://wa.me/923136420207) | [![Vihanga](https://i.imghippo.com/files/zzy3146DKQ.jpg)](https://wa.me/923471728690) |
+[![Owner](https://i.imghippo.com/files/NKF1873jU.jpg)](https://wa.me/923136420207) | [![Vihanga](https://i.imghippo.com/files/zzy3146DKQ.jpg)](https://wa.me/923471728690) |
 </div>
 <hr>
 ## Developer:

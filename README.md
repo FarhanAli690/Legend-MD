@@ -27,12 +27,7 @@ src="https://cardivo.vercel.app/api?name=MR%20LEGEND%20MD%20&description=🥂THE
 
 ### Setup
 
-*DEPLOY ON HEROKU*
-   - **Click [FORK](https://github.com/Farhanali690/Legend-MD/fork) and Star ⭐ Repository for Courage.**
-   - You will get a session ID in WhatsApp, copy the ID only.
-   - *If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).*
-</p>
-
+![forks](https://img.shields.io/github.com/Farhanali690/Legend-MD/fork?label=Forks&style=social)
 
 *Linking methods*
 
